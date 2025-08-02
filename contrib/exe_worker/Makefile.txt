@@ -1,5 +1,5 @@
 EXTENSION = exe_worker
-DATA = exe_worker--1.0.sql
+#DATA = exe_worker--1.0.sql
 MODULES = exe_worker
 #REGRESS = pg_make_title
 ifdef USE_PGXS
