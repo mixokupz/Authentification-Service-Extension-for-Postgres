@@ -1,5 +1,5 @@
 EXTENSION = auth_worker
-DATA = auth_worker--1.0.sql
+#DATA = auth_worker--1.0.sql
 MODULES = auth_worker
 #REGRESS = pg_make_title
 ifdef USE_PGXS
